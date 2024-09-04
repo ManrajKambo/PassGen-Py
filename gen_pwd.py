@@ -25,7 +25,7 @@ def generate_password(length, include_special_chars):
 	return password
 
 def parse_arguments():
-  # Default length is 32 characters
+	# Default length is 32 characters
 	length = 32
 	include_special_chars = False
 
